@@ -1,0 +1,5 @@
+export const FETCH_POEM = 'FETCH_POEM';
+export const FETCH_PROJECTS = 'FETCH_PROJECTS';
+export const FETCH_SKETCH = 'FETCH_SKETCH';
+export const FETCH_BOOK = 'FETCH_BOOK';
+export const FETCH_NONTECHNICAL = 'FETCH_NONTECHNICAL';
